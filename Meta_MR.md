@@ -1,5 +1,5 @@
 # 4. DESIGN MRS FOR DL OPERATORS
-In this section, we introduce our 16 MRs and detail the workflow of Meta. Our approach enables efficient testing of DL operators, helping to improve the reliability and accuracy of deep learning systems.
+In this section, we introduce our 16 MRs of Meta. Our approach enables efficient testing of DL operators, helping to improve the reliability and accuracy of deep learning systems.
 
 ## 4.1 Metamorphic Relations for Convolution Operator
 There are two main parameters of the convolution operator, namely kernel and bias. 
